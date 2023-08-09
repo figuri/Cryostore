@@ -32,4 +32,4 @@ This project is licensed under no license.
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at 
-[my email](mailto:"samtisme@gmail.com"). You can find more of my work at [my GitHub](
+[my email](mailto:"samtisme@gmail.com"). You can find more of my work at [my GitHub](https://github.com/figuri)
