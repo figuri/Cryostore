@@ -1,5 +1,5 @@
 # Cryostore
-to build the back end for an e-commerce site, configure a working Express.js API to use Sequelize to interact with a MySQL database
+ the back end for an e-commerce site, an Express.js API that uses Sequelize to interact with a MySQL database
 
 ## Table of Contents
 * [Installation](#installation)
